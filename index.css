@@ -1,0 +1,76 @@
+header{
+    padding: 10px;
+    background-color: #006D77;
+    background-repeat: repeat;
+}
+.topnav{
+    text-align: right;
+    margin-top: 5px;
+    padding-top: 30px;
+}
+
+.topnav a{
+    padding: 30px;
+    text-align: right;
+    color: white;
+    font-size: 28px;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center; 
+}
+h4{
+    text-align: center;
+}
+#fom{
+    text-align: center;
+    background-color: yellowgreen;
+}
+#one{
+    padding: 10px;
+}
+#two{
+    padding: 10px;
+}
+#three{
+    padding: 10px;
+}
+#four{
+    padding: 10px;
+}
+#five{
+    padding: 10px;
+}
+
+#social {
+    text-align: center;
+    padding: 20px;
+}
+#social img{
+    padding: 10px 30px;
+}
+footer{
+    background-color: #006D77;
+    margin-top: 30px;
+}
+#dir p{
+    text-align: center;
+    width: 70%;
+    margin-left: 130px;
+    margin-right: -50px;
+}
+#ghana h2{
+    margin: 40px;
+}
+#ghana{
+    text-align: center;
+    background-color: azure;
+    margin-top: -32px;
+    margin-bottom: -20px;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+    }

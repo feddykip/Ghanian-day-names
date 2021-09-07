@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<head>
+       <meta charset="UTF-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>Akan Naming</title>
+       <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Poppins" />
+       <link rel="stylesheet" href="index.css">
+
+</head>
+<body>
+    <header>
+        <div class="topnav">
+            <a href="home.html">Home</a>
+            <a href="akan.html">Akan Name</a>
+          </div>
+    </header>
+    <h1>Your Akan Names</h1>
+    <p>You can check out your Akan name by simply keying in your data into the form below as requested and submit the data to see your Akan name.</p>
+    <h4>Refresh webpage after checking Akan Name in order to check again!</h4>
+
+    <div id="fom">
+   <form id="data" onsubmit="return false">
+      <div id="one">
+          <lable>Date :</lable>
+          <input type="number" name="Date" id="date"><br>
+      </div>
+      <div id="two">
+          <lable>Month :</lable>
+          <input type="number" name="Month" id="month"><br>
+      </div>
+      <div id="three">
+          <lable>Year :</lable>
+          <input type="number" name="Year"  id="year"><br>
+      </div>
+      <div id="four">
+          <lable>Gender</lable>
+          <select name="gender">
+            <option value="none">select</option>
+              <option value="male">Male</option>
+              <option value="female">Female</option>
+          </select>
+      </div>
+      <div id="five">
+        <button class="primary btn" onclick="akanNaming ()"> 
+            Check Akan Name
+        </button> 
+      </div>
+   </form>
+   </div>
+
+   <h3 id="alert"></h3>
+   <h3 id="error"></h3>
+
+   <script src="script.js"></script>
+
+   <footer>
+    <div id="social">
+        <img src="https://img.icons8.com/ios/2x/twitter.png" height="40px" width="40px">
+        <img src="https://img.icons8.com/ios/2x/facebook-circled.png" height="40px" width="40px">
+        <img src="https://img.icons8.com/ios/2x/instagram-new.png" height="40px" width="40px">
+    </div>
+</footer>
+</body>
+</html>
