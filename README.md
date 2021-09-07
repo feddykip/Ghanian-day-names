@@ -6,7 +6,7 @@ A web application that takes a user's birthday and calculates the day of the wee
 ## Setup
 To access this website you will need a web browser to load the content. You will load the url which will take you to the page where you can view my details.
 ## How it works
-* Navigate to the Akan names page
+* Navigate to the Akan names page on the website
 * Input correct data to the form as request
 * submit the data in order to know your Akan Name
 ## Technologies used
