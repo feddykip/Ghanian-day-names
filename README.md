@@ -13,6 +13,7 @@ To access this website you will need a web browser to load the content. You will
 * HTML
 * CSS
 * GIT
+* JAVASCRIPT
 ### Live site
 view [live](https://feddykip.github.io/Ghanian-day-names/home.html)
 ### license
