@@ -15,4 +15,4 @@ To access this website you will need a web browser to load the content. You will
 * GIT
 ### Live site
 view [live](https://feddykip.github.io/Ghanian-day-names/home.html)
-
+### 
